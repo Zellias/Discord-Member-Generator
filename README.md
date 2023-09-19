@@ -8,7 +8,7 @@ This is a Discord Account Generator project, maintained and updated by zellias. 
 
 ### Project Status
 
-This project is a recode and update of the original code, and the first creator is unknown.
+This project is an update of the original code, and the first creator is unknown.
 
 ### Features
 
