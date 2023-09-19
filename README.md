@@ -1,7 +1,5 @@
 # Discord Account Generator
 
-## Username: zellias
-
 ### Description
 
 This is a Discord Account Generator project, maintained and updated by zellias. The purpose of this project is to provide a tool that can generate Discord accounts for various purposes. Please note that using this tool for malicious or unauthorized activities is against Discord's terms of service, and we do not endorse or support such actions.
