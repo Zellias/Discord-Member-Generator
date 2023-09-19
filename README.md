@@ -30,6 +30,8 @@ This project is intended for educational and legitimate purposes only. It should
 
 If you find this project useful or helpful, please consider giving it a star on GitHub by clicking the "Star" button at the top of the repository. Your support is greatly appreciated and encourages the maintenance and improvement of this project.
 
+⭐ : 100 Stars = AI Captcha solver + Proxy scraper
+
 ### License
 
 This project is open-source and is provided under the [MIT License](LICENSE).
