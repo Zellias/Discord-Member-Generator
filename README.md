@@ -1,6 +1,6 @@
 # Discord Account Generator
 
-Dont forget to [join my server](https://discord.gg/zellias)
+Dont forget to [join my server](https://discord.gg/xaro)
 
 ### Description
 
